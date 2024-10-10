@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ojdajuiceman91
+- 👋 Hi, I’m Adenihun Adewale 
 - 👀 I’m interested in data science 
 - 🌱 I’m an Economist and also a Data Analyst 
 - 💞️ I’m looking to collaborate on data analysis 

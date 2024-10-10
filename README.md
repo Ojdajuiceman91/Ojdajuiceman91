@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis 
 - 📫 How to reach me adewaleadenihun@gmail.com
 - 😄 Pronouns: He.
-
+-You can ask me about python,sql,excel,power-bi
 
 <!---
 Ojdajuiceman91/Ojdajuiceman91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

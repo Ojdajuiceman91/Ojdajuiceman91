@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ojdajuiceman91
 - 👀 I’m interested in data science 
-- 🌱 I’m a Data Analyst 
+- 🌱 I’m an Economist and also a Data Analyst 
 - 💞️ I’m looking to collaborate on data analysis 
 - 📫 How to reach me adewaleadenihun@gmail.com
 - 😄 Pronouns: He.
